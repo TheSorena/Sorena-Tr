@@ -1,0 +1,5 @@
+{
+  "name": "Surena SRT AI Translator",
+  "description": "A professional AI-powered tool to translate SRT subtitle files into natural, idiomatic Persian using Gemini AI. Supports 5 languages, dark mode, and chunked processing for accuracy.",
+  "requestFramePermissions": []
+}
